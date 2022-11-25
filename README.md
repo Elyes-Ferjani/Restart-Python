@@ -47,4 +47,4 @@ pip install boto3
 python3 server.py <your.name>-20221125
 
 ## Test the application
-go to browser hit : http://<ec2-public-ip>:8080/
+go to browser hit : http://ec2-public-ip:8080/
