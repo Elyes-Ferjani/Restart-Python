@@ -14,7 +14,7 @@ click on action => security => edit IAM role
 Check the security group associated with the EC2 ENI
 
 ## SSH to the instance
-ssh -i <keyname> ec2-user@<public-ip>
+ssh -i <keyname> ec2-user@public-ip
 
 ## If you dont have pip installed, then install pip
 sudo yum install epel-release -y;
