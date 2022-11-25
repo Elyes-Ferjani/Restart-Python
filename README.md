@@ -1,5 +1,5 @@
 # Restart-Python
-
+# Create an s3 bucket <your.name>-20221125
 # create a role and add permission ( S3 full access )
 # attach the role to the EC2 instance
 # open port 8080 (SG)
